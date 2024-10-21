@@ -1,7 +1,7 @@
 # Vista-LLaMA
 
 
-### Vista-LLaMA: Reliable Video Narrator via Equal Distance to Visual Tokens
+### Vista-LLaMA: educing Hallucination in Video Language Models via Equal Distance to Visual Tokens
 
 
 
